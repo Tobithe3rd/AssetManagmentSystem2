@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AssetManagmentSystem2.props" />
+</Project>
